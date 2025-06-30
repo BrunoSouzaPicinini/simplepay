@@ -80,16 +80,6 @@ Thumbs.db
 *.pid
 *.pid.lock
 
-# Application specific configurations
-application-local.yml
-application-local.yaml
-application-local.properties
-application-dev.yml
-application-dev.yaml
-application-dev.properties
-application-prod.yml
-application-prod.yaml
-application-prod.properties
 
 # Database
 *.db
